@@ -1,4 +1,4 @@
--- hide.lat / maximum / 6146b03bb877
+get the fuck outta here u fucking skidder little shit 
 local jOoii1oijLl0=(getfenv and getfenv(1)) or _ENV or _G
 local L1i00IiI1OIO,l1O0iOIoj=string.byte,string.char
 local function ioLLoLiIjl0ji(iOIo0Ojl,ll1l0O)
